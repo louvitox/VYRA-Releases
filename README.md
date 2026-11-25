@@ -2,7 +2,7 @@
 
 **L’écran de votre iPhone, sur votre PC Windows.** Affichez une présentation en plein écran, capturez une image ou gardez une vidéo de votre session. VYRA est gratuit, fonctionne sur votre réseau local et s’utilise sans compte.
 
-[**Versions pour Windows x64 →**](https://github.com/louvitox/VYRA-Releases/releases)　·　[Notes de la bêta 2](notes/beta-2.md)
+[**Télécharger VYRA pour Windows 64 bits →**](https://github.com/louvitox/VYRA-Releases/releases/download/v0.9.0-beta.1/VYRA-Setup.exe)　·　[Notes de la bêta 2](notes/beta-2.md)
 
 ![L’accueil de VYRA sous Windows avec les commandes de connexion iPhone et Android](assets/accueil.jpg)
 
